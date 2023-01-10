@@ -1,1 +1,2 @@
 building a job
+configure job
